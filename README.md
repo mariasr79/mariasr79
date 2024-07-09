@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy [María]
 
-<!--
-**mariasr79/mariasr79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mí
 
-Here are some ideas to get you started:
+Soy una desarrolladora de software con experiencia en desarrollo Full Stack y una pasión por el código abierto. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologías & Herramientas
+
+- Lenguajes: JavaScript, Python, Html, Css
+- Frameworks: React
+- Herramientas: Git
+- Otros: SQL
+
+### 📫 Cómo contactarme
+
+- **Email:** [msr.sernaruiz@gmail.com]
+- **LinkedIn:** [María Serna Ruiz](https://linkedin.com/in/maria-serna-ruiz-75874b29))
+
+
