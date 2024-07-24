@@ -1,5 +1,3 @@
-https://gifer.com/es/ww
-
 # 👋 Hola, soy [María]
 
 ### 👨‍💻 Sobre Mí
