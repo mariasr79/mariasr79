@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy una desarrolladora de software con experiencia en desarrollo Full Stack y una pasión por el código abierto. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+Desarrolladora web entusiasta que transforma ideas en soluciones digitales 💻✨. No me rindo hasta que la solución sea perfecta 🏆. ¿La razón? Lo heredé de mi madre 👩‍👧. ¡Qué le vamos a hacer!
 
 ### 🔧 Tecnologías & Herramientas
 
